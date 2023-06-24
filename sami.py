@@ -9,6 +9,6 @@ try:
     time.sleep(5)
     os.system('git push origin main --force')
     time.sleep(5)
-    print("Done")
-except Exception as e:
-    print(e)
+    print("metidaaaa 🥵🥵🥵... digo... Done!!!")
+except Exception as error:
+    print(error)
