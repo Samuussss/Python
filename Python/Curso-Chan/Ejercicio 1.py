@@ -1,9 +1,6 @@
 """
-para ser feliz esta mas que claro que se neccesita porno
+Ejercicio 1: Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.
 """
-import time
-
-time.sleep(5)
-print("-------------------------------------------------------------------------")
-print("---------------metidaaaa 🥵🥵🥵... digo... Done!!!-----------------------")
-print("-------------------------------------------------------------------------")
+palabra = input("Introduce una palabra: ")
+for i in range(10):
+    print(palabra)
