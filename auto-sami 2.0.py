@@ -1,4 +1,5 @@
 import subprocess
+import time
 
 def git_add_commit_push(commit_message):
     try:
@@ -13,6 +14,12 @@ def git_add_commit_push(commit_message):
         print("Ocurrió un error durante la subida al repositorio:")
         print(e)
 
-
+print("--------------------")
+print(" ")
 commit_msg = input("Ingrese un mensaje para el commit: ")
+
 git_add_commit_push(commit_msg)
+
+print(" ")
+print("--------------------")
+time.sleep(15)
