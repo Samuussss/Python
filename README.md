@@ -163,13 +163,13 @@
 **Introducción a la programación orientada a objetos**
 
 
-1.	Conceptos fundamentales de la POO
+**1.	Conceptos fundamentales de la POO**
 
 -	Objetos, clases y métodos
 
 -	Encapsulamiento, herencia y polimorfismo
 
-2.	Clases, objetos y atributos
+**2.	Clases, objetos y atributos**
 
 -	Creación de clases y objetos
 
@@ -177,7 +177,7 @@
 
 -	Acceso a atributos y métodos mediante notación de punto
 
-3.	Métodos y encapsulamiento
+**3.	Métodos y encapsulamiento**
 
 -	Definición de métodos de instancia y métodos estáticos
 
@@ -185,9 +185,9 @@
 
 -	Encapsulamiento de atributos y métodos mediante convenciones de nombre
 
-7. Herencia y polimorfismo
+# **Herencia y polimorfismo**
 
-1.	Creación de clases derivadas y herencia
+**1.	Creación de clases derivadas y herencia**
 
 -	Herencia simple y múltiple
 
@@ -195,7 +195,7 @@
 
 -	Sobreescritura de métodos y herencia de atributos
 
-2.	Polimorfismo y reutilización de código
+**2.	Polimorfismo y reutilización de código**
 
 -	Polimorfismo de método y polimorfismo de clase
 
@@ -203,21 +203,21 @@
 
 -	Composición y agregación como alternativas a la herencia
 
-8. Principios avanzados de la POO
+# **Principios avanzados de la POO**
 
-1.	Composición y agregación
+**1.	Composición y agregación**
 
 -	Relaciones entre objetos
 
 -	Creación de objetos complejos mediante composición y agregación
 
-2.	Métodos especiales y sobrecarga de operadores
+**2.	Métodos especiales y sobrecarga de operadores**
 
 -	Uso de métodos especiales para operaciones específicas (e.g., __str__, __len__)
 
 -	Sobrecarga de operadores para trabajar con objetos personalizados
 
-3.	Decoradores y metaprogramación
+**3.	Decoradores y metaprogramación**
 
 -	Uso de decoradores para modificar el comportamiento de funciones y métodos
 
@@ -225,7 +225,7 @@
 
 __getattr__)
 
-**Módulo 4: Desarrollo de Aplicaciones de Escritorio con GUI**
+# **Módulo 4: Desarrollo de Aplicaciones de Escritorio con GUI**
 
 9. Introducción a la programación de GUI
 
