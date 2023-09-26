@@ -159,7 +159,7 @@
 -	Complejidad de los algoritmos de búsqueda y ordenamiento
 
 # **Módulo 3: Programación Orientada a Objetos**
-
+#
 # **Introducción a la programación orientada a objetos**
 
 
@@ -221,12 +221,10 @@
 
 -	Uso de decoradores para modificar el comportamiento de funciones y métodos
 
--	Introducción a la metaprogramación y atributos especiales (e.g., __dict__,
-
-__getattr__)
+-	Introducción a la metaprogramación y atributos especiales (e.g., __dict__,__getattr__)
 
 # **Módulo 4: Desarrollo de Aplicaciones de Escritorio con GUI**
-
+#
 # **Introducción a la programación de GUI**
 
 **1.	Fundamentos de interfaces gráficas**
@@ -290,7 +288,7 @@ __getattr__)
 -	Consideraciones de diseño y usabilidad en plataformas específicas
 
 # **Módulo 5: Desarrollo de Aplicaciones Web Backend**
-
+#
 # **Introducción a la programación web**
 
 **1.	Arquitectura cliente-servidor**
