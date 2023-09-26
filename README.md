@@ -1,8 +1,8 @@
 # Temario Python
-
+#
 # Módulo 1: Introducción a Python
-
-**Introducción a Python:**
+#
+# **Introducción a Python:**
 
 **1.	Historia y características del lenguaje**
 
@@ -77,7 +77,7 @@
 -	Uso de la cláusula else y finally
 
 # **Módulo 2: Estructuras de Datos y Algoritmos**
-
+#
 # **Listas, tuplas y conjuntos**
 
 **1.	Manipulación de listas**
