@@ -1,5 +1,4 @@
-# temario python 
-# _______________________
+# Temario Python
 
 # Módulo 1: Introducción a Python
 
