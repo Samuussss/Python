@@ -1,22 +1,23 @@
 # temario python 
+# - - - - - - - - - - - - - - 
 
-**Módulo 1: Introducción a Python**
+# Módulo 1: Introducción a Python
 
-1. Introducción a Python
+**1. Introducción a Python**
 
-1.	Historia y características del lenguaje
+**1.	Historia y características del lenguaje**
 
 -	Origen y evolución de Python
 
 -	Principales características y ventajas del lenguaje
 
-2.	Instalación de Python y entorno de desarrollo
+**2.	Instalación de Python y entorno de desarrollo**
 
 -	Descarga e instalación de Python en diferentes sistemas operativos
 
 -	Configuración de un entorno de desarrollo (IDEs, editores de texto, etc.)
 
-3.	Configuración del entorno de trabajo
+**3.	Configuración del entorno de trabajo**
 
 -	Configuración de variables de entorno
 
@@ -32,7 +33,7 @@
 
 -	Conversión de tipos de datos
 
-# 2.	Operadores y expresiones
+**2.	Operadores y expresiones**
 
 -	Operadores aritméticos
 
@@ -42,7 +43,7 @@
 
 -	Operadores lógicos y de pertenencia
 
-# 3.	Control de flujo y estructuras de decisión
+**3.	Control de flujo y estructuras de decisión**
 
 -	Instrucción if-else
 
@@ -50,7 +51,7 @@
 
 -	Operador ternario
 
-# 4.	Bucles y estructuras de repetición
+**4.	Bucles y estructuras de repetición**
 
 -	Bucle while
 
@@ -58,7 +59,7 @@
 
 -	Instrucciones break y continue
 
-# 5.	Funciones y reutilización de código
+**5.	Funciones y reutilización de código**
 
 -	Definición de funciones
 
@@ -68,7 +69,7 @@
 
 -	Ámbito de variables (local y global)
 
-# 6.	Manejo de excepciones
+**6.	Manejo de excepciones**
 
 -	Estructura try-except
 
