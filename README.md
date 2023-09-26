@@ -78,7 +78,7 @@
 
 # **Módulo 2: Estructuras de Datos y Algoritmos**
 
-**(Listas, tuplas y conjuntos) **
+**Listas, tuplas y conjuntos**
 
 **1.	Manipulación de listas**
 
@@ -104,7 +104,9 @@
 
 -	Uso de conjuntos para eliminar elementos duplicados y realizar pruebas de pertenencia
 
-# **4.	Diccionarios y estructuras de datos avanzadas**
+
+**4.	Diccionarios y estructuras de datos avanzadas**
+
 
 1.	Creación y manipulación de diccionarios
 
