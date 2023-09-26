@@ -105,7 +105,7 @@
 -	Uso de conjuntos para eliminar elementos duplicados y realizar pruebas de pertenencia
 
 
-# **4.	Diccionarios y estructuras de datos avanzadas**
+# **Diccionarios y estructuras de datos avanzadas**
 
 
 **1.	Creación y manipulación de diccionarios**
