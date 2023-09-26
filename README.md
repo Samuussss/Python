@@ -249,7 +249,7 @@
 
 -	Organización de widgets mediante gestores de geometría
 
-*2.	Diseño de interfaces gráficas**
+**2.	Diseño de interfaces gráficas**
 
 -	Uso de frames y contenedores para organizar la interfaz
 
