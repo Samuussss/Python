@@ -22,7 +22,7 @@
 
 -	Gestión de paquetes y entornos virtuales
 
-2.	Fundamentos de programación con Python
+# 2.	Fundamentos de programación con Python
 
 1.	Variables y tipos de datos simples
 
@@ -32,7 +32,7 @@
 
 -	Conversión de tipos de datos
 
-2.	Operadores y expresiones
+# 2.	Operadores y expresiones
 
 -	Operadores aritméticos
 
@@ -42,7 +42,7 @@
 
 -	Operadores lógicos y de pertenencia
 
-3.	Control de flujo y estructuras de decisión
+# 3.	Control de flujo y estructuras de decisión
 
 -	Instrucción if-else
 
@@ -50,7 +50,7 @@
 
 -	Operador ternario
 
-4.	Bucles y estructuras de repetición
+# 4.	Bucles y estructuras de repetición
 
 -	Bucle while
 
@@ -58,7 +58,7 @@
 
 -	Instrucciones break y continue
 
-5.	Funciones y reutilización de código
+# 5.	Funciones y reutilización de código
 
 -	Definición de funciones
 
@@ -68,7 +68,7 @@
 
 -	Ámbito de variables (local y global)
 
-6.	Manejo de excepciones
+# 6.	Manejo de excepciones
 
 -	Estructura try-except
 
@@ -76,7 +76,7 @@
 
 -	Uso de la cláusula else y finally
 
-**Módulo 2: Estructuras de Datos y Algoritmos**
+# **Módulo 2: Estructuras de Datos y Algoritmos**
 
 3. Listas, tuplas y conjuntos
 
