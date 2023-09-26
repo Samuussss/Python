@@ -160,7 +160,7 @@
 
 # **Módulo 3: Programación Orientada a Objetos**
 
-**Introducción a la programación orientada a objetos**
+# **Introducción a la programación orientada a objetos**
 
 
 **1.	Conceptos fundamentales de la POO**
