@@ -108,7 +108,7 @@
 **4.	Diccionarios y estructuras de datos avanzadas**
 
 
-1.	Creación y manipulación de diccionarios
+**1.	Creación y manipulación de diccionarios**
 
 -	Sintaxis y acceso a elementos
 
@@ -116,17 +116,17 @@
 
 -	Iteración sobre diccionarios
 
-2.	Sets y frozensets
+**2.	Sets y frozensets**
 
 -	Uso de sets para almacenar elementos únicos
 
 -	Diferencias entre sets y frozensets
 
-3.	Uso de pilas, colas y ques
+**3.	Uso de pilas, colas y ques**
 
 -	Implementación de pilas y colas con listas
 
-4.	Recursión
+**4.	Recursión**
 
 -	Concepto de recursión
 
@@ -134,15 +134,17 @@
 
 -	Casos de uso de la recursión
 
-5.	Algoritmos de búsqueda y ordenamiento
 
-1.	Búsqueda lineal y binaria
+**5.	Algoritmos de búsqueda y ordenamiento**
+
+
+**1.	Búsqueda lineal y binaria**
 
 -	Implementación de algoritmos de búsqueda
 
 -	Casos de uso y eficiencia de los algoritmos de búsqueda
 
-2.	Ordenamiento de listas
+**2.	Ordenamiento de listas**
 
 -	Algoritmo de ordenamiento burbuja
 
@@ -150,13 +152,13 @@
 
 -	Algoritmo de ordenamiento rápido (quicksort)
 
-3.	Análisis de la complejidad algorítmica
+**3.	Análisis de la complejidad algorítmica**
 
 -	Notación O grande y su uso para analizar el rendimiento de los algoritmos
 
 -	Complejidad de los algoritmos de búsqueda y ordenamiento
 
-**Módulo 3: Programación Orientada a Objetos**
+# **Módulo 3: Programación Orientada a Objetos**
 
 6. Introducción a la programación orientada a objetos
 
