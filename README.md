@@ -2,7 +2,7 @@
 
 # Módulo 1: Introducción a Python
 
-**1. Introducción a Python**
+**Introducción a Python**
 
 **1.	Historia y características del lenguaje**
 
