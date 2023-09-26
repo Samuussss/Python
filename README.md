@@ -227,25 +227,23 @@ __getattr__)
 
 # **Módulo 4: Desarrollo de Aplicaciones de Escritorio con GUI**
 
-9. Introducción a la programación de GUI
+# **Introducción a la programación de GUI**
 
-1.	Fundamentos de interfaces gráficas
+**1.	Fundamentos de interfaces gráficas**
 
 -	Beneficios y características de las GUI
 
 -	Elementos comunes de las GUI: ventanas, botones, cuadros de texto, etc.
 
-2.	Bibliotecas populares: Tkinter, PyQt, wxPython
+**2.	Bibliotecas populares: Tkinter, PyQt, wxPython**
 
--
-
-Descripción y comparación de las bibliotecas más utilizadas
+-Descripción y comparación de las bibliotecas más utilizadas
 
 -	Elección de la biblioteca adecuada según las necesidades del proyecto
 
-10.	Desarrollo de aplicaciones de escritorio con Tkinter
+# **Desarrollo de aplicaciones de escritorio con Tkinter**
 
-1.	Creación de ventanas y widgets
+**1.	Creación de ventanas y widgets**
 
 -	Creación de una ventana principal
 
@@ -253,21 +251,23 @@ Descripción y comparación de las bibliotecas más utilizadas
 
 -	Organización de widgets mediante gestores de geometría
 
-2.	Diseño de interfaces gráficas
+*2.	Diseño de interfaces gráficas**
 
 -	Uso de frames y contenedores para organizar la interfaz
 
 -	Aplicación de estilos y temas a través de hojas de estilo
 
-3.	Manejo de eventos y interacción con el usuario - Vinculación de eventos a funciones
+**3.	Manejo de eventos y interacción con el usuario**
+
+- Vinculación de eventos a funciones
 
 -	Captura y procesamiento de eventos del usuario
 
 -	Uso de diálogos para interacción especializada
 
-11.	Desarrollo avanzado de aplicaciones de escritorio
+# **Desarrollo avanzado de aplicaciones de escritorio**
 
-1.	Estilos y temas personalizados
+**1.	Estilos y temas personalizados**
 
 -	Creación y aplicación de estilos personalizados
 
@@ -275,7 +275,7 @@ Descripción y comparación de las bibliotecas más utilizadas
 
 -	Cambio de estilos en tiempo de ejecución
 
-2.	Menús, barras de herramientas y diálogos
+**2.	Menús, barras de herramientas y diálogos**
 
 -	Creación de menús y submenús
 
@@ -283,35 +283,35 @@ Descripción y comparación de las bibliotecas más utilizadas
 
 -	Uso de diálogos para interacción especializada (e.g., selección de archivos)
 
-3.	Aplicaciones multiplataforma
+**3.	Aplicaciones multiplataforma**
 
 -	Adaptación de la interfaz para diferentes sistemas operativos
 
 -	Consideraciones de diseño y usabilidad en plataformas específicas
 
-**Módulo 5: Desarrollo de Aplicaciones Web Backend**
+# **Módulo 5: Desarrollo de Aplicaciones Web Backend**
 
-12.	Introducción a la programación web
+# **Introducción a la programación web**
 
-1.	Arquitectura cliente-servidor
+**1.	Arquitectura cliente-servidor**
 
 -	Conceptos básicos de la arquitectura cliente-servidor
 
 -	Rol del servidor web y el navegador en una aplicación web
 
-2.	Protocolo HTTP y conceptos básicos
+**2.	Protocolo HTTP y conceptos básicos**
 
 -	Métodos HTTP: GET, POST, PUT, DELETE, etc.
 
 -	Cabeceras HTTP y códigos de respuesta
 
-3.	Frameworks web populares en Python
+**3.	Frameworks web populares en Python**
 
 - Descripción y comparación de frameworks web (e.g., Flask, Django, FastAPI)
 
-13.	Desarrollo de aplicaciones web con Flask
+# **Desarrollo de aplicaciones web con Flask**
 
-1.	Creación de rutas y vistas
+**1.	Creación de rutas y vistas**
 
 -	Configuración de rutas URL
 
@@ -319,7 +319,7 @@ Descripción y comparación de las bibliotecas más utilizadas
 
 -	Uso de plantillas para renderizar contenido dinámico
 
-2.	Templates y renderizado dinámico
+**2.	Templates y renderizado dinámico**
 
 -	Uso de motores de plantillas (e.g., Jinja2) en Flask
 
@@ -327,7 +327,7 @@ Descripción y comparación de las bibliotecas más utilizadas
 
 -	Uso de estructuras de control en las plantillas (e.g., bucles, condicionales)
 
-3.	Manejo de formularios y datos
+**3.	Manejo de formularios y datos**
 
 -	Recepción y validación de datos de formularios
 
@@ -335,21 +335,21 @@ Descripción y comparación de las bibliotecas más utilizadas
 
 -	Protección contra ataques de seguridad comunes (e.g., CSRF)
 
-14.	Desarrollo de API RESTful con Flask y FastAPI
+# **Desarrollo de API RESTful con Flask y FastAPI**
 
-1.	Creación de endpoints y operaciones CRUD
+**1.	Creación de endpoints y operaciones CRUD**
 
 -	Definición de rutas y verbos HTTP para operaciones CRUD
 
 -	Uso de funciones para implementar las operaciones de la API
 
-2.	Serialización y deserialización de datos
+**2.	Serialización y deserialización de datos**
 
 -	Uso de bibliotecas de serialización/deserialización (e.g., JSON, XML)
 
 -	Conversión de objetos Python a formatos de datos compatibles con la web
 
-3.	Autenticación y autorización en APIs
+**3.	Autenticación y autorización en APIs**
 
 -	Implementación de autenticación basada en tokens (e.g., JWT)
 
