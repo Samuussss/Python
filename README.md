@@ -135,7 +135,7 @@
 -	Casos de uso de la recursión
 
 
-**5.	Algoritmos de búsqueda y ordenamiento**
+# **5.	Algoritmos de búsqueda y ordenamiento**
 
 
 **1.	Búsqueda lineal y binaria**
@@ -160,7 +160,8 @@
 
 # **Módulo 3: Programación Orientada a Objetos**
 
-6. Introducción a la programación orientada a objetos
+**Introducción a la programación orientada a objetos**
+
 
 1.	Conceptos fundamentales de la POO
 
