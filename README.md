@@ -78,9 +78,9 @@
 
 # **Módulo 2: Estructuras de Datos y Algoritmos**
 
-3. Listas, tuplas y conjuntos
+**(Listas, tuplas y conjuntos) **
 
-1.	Manipulación de listas
+**1.	Manipulación de listas**
 
 -	Creación, acceso y modificación de elementos
 
@@ -88,7 +88,7 @@
 
 -	Slicing y concatenación de listas
 
-2.	Operaciones con tuplas
+**2.	Operaciones con tuplas**
 
 -	Creación y desempaquetado de tuplas
 
@@ -96,7 +96,7 @@
 
 -	Inmutabilidad de las tuplas
 
-3.	Uso de conjuntos y operaciones de conjunto
+**3.	Uso de conjuntos y operaciones de conjunto**
 
 -	Creación y manipulación de conjuntos
 
@@ -104,7 +104,7 @@
 
 -	Uso de conjuntos para eliminar elementos duplicados y realizar pruebas de pertenencia
 
-4.	Diccionarios y estructuras de datos avanzadas
+# **4.	Diccionarios y estructuras de datos avanzadas**
 
 1.	Creación y manipulación de diccionarios
 
