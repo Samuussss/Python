@@ -24,7 +24,7 @@
 
 # 2.	Fundamentos de programación con Python
 
-1.	Variables y tipos de datos simples
+**1.	Variables y tipos de datos simples**
 
 -	Declaración de variables y asignación de valores
 
