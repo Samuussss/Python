@@ -1,6 +1,6 @@
 ## [Syllabus](#syllabus)
 
-# Python Syllabus
+## [Python Syllabus](#python-syllabus) 
 
 # Programming Languages {#programming-languages}
 
@@ -61,7 +61,7 @@
 
 ---
 
-## [Python Syllabus](#python-syllabus)
+# Python Syllabus
 
 # Module 1: Introduction to Python
 
