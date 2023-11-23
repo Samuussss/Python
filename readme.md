@@ -1,8 +1,8 @@
-## Syllabus {#python-syllabus}
+##Syllabus {#python-syllabus}
 
-# Python Syllabus
+#Python Syllabus
 
-# Module 1: Introduction to Python
+#Module 1: Introduction to Python
 
 **Introduction to Python:**
 
@@ -282,8 +282,4 @@
 **3. Authentication and Authorization in APIs**
 
 - Implementing token-based authentication (e.g., JWT) in Flask
-- Utilizing decorators and middleware to control access to API endpoints
-
-## Syllabus {#syllabus}
-
-# Syllabus
+- Utilizing decorators and middleware to control access to API endpoints. 
