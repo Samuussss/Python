@@ -1,6 +1,6 @@
-##Syllabus {#python-syllabus}
+## Syllabus {#python-syllabus}
 
-#Python Syllabus
+# Python Syllabus
 
 #Module 1: Introduction to Python
 
