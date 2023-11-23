@@ -1,8 +1,69 @@
-## Syllabus {#python-syllabus}
+## [Syllabus](#syllabus)
 
 # Python Syllabus
 
-#Module 1: Introduction to Python
+# Programming Languages {#programming-languages}
+
+### Front-end
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+
+### Back-end
+- Java
+- PHP
+- Ruby
+- Node.js (JavaScript on the server side)
+- Flask (Python)
+- C#
+- Python
+- C++
+
+### Database
+- MySQL
+
+**Security:**
+- C
+- Python
+- PHP
+
+**Data Science and Analysis:**
+- Python
+- R
+
+**Mobile App Development:**
+- Swift (iOS)
+- Kotlin (Android)
+- React Native
+
+**Game Development:**
+- C++
+- C#
+- Python (with libraries like Pygame)
+
+**Automation and Scripting:**
+- Python
+- Bash (Shell scripting)
+- PowerShell
+
+**Internet of Things (IoT):**
+- Python
+- C++
+- JavaScript (Node.js)
+
+**Machine Learning and Artificial Intelligence:**
+- Python
+- R
+- Java
+- TensorFlow (compatible with various languages)
+
+---
+
+## [Python Syllabus](#python-syllabus)
+
+# Module 1: Introduction to Python
 
 **Introduction to Python:**
 
@@ -239,13 +300,12 @@
 
 **2. HTTP Protocol and Basic Concepts**
 
-- Overview of the HTTP protocol
-- Common HTTP methods: GET, POST, PUT, DELETE
-- Understanding HTTP headers and response codes
+- HTTP methods: GET, POST, PUT, DELETE, etc.
+- HTTP headers and response codes
 
 **3. Popular Web Frameworks in Python**
 
-- Description and comparison of major web frameworks (e.g., Flask, Django, FastAPI)
+- Description and comparison of web frameworks (e.g., Flask, Django, FastAPI)
 
 # Developing Web Applications with Flask
 
@@ -282,4 +342,8 @@
 **3. Authentication and Authorization in APIs**
 
 - Implementing token-based authentication (e.g., JWT) in Flask
-- Utilizing decorators and middleware to control access to API endpoints. 
+- Utilizing decorators and middleware to control access to API endpoints
+
+## [Syllabus](#syllabus)
+
+# Syllabus
