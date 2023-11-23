@@ -1,68 +1,4 @@
-# Table of Contents
-
-1. [Programming languages](#programming-languages)
-2. [Syllabus](#syllabus)
-
-## Programming languages {#programming-languages}
-
-### Front-end
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
-
-### Back-end
-- Java
-- PHP
-- Ruby
-- Node.js (JavaScript on the server side)
-- Flask (Python)
-- C#
-- Python
-- C++
-
-### Database
-- MySQL
-
-**Security:**
-- C
-- Python
-- PHP
-
-**Data Science and Analysis:**
-- Python
-- R
-
-**Mobile App Development:**
-- Swift (iOS)
-- Kotlin (Android)
-- React Native
-
-**Game Development:**
-- C++
-- C#
-- Python (with libraries like Pygame)
-
-**Automation and Scripting:**
-- Python
-- Bash (Shell scripting)
-- PowerShell
-
-**Internet of Things (IoT):**
-- Python
-- C++
-- JavaScript (Node.js)
-
-**Machine Learning and Artificial Intelligence:**
-- Python
-- R
-- Java
-- TensorFlow (compatible with various languages)
-
----
-
-## Syllabus {#syllabus}
+## Syllabus {#python-syllabus}
 
 # Python Syllabus
 
@@ -303,14 +239,13 @@
 
 **2. HTTP Protocol and Basic Concepts**
 
-- HTTP methods: GET, POST, PUT, DELETE, etc.
-- HTTP headers and response codes
+- Overview of the HTTP protocol
+- Common HTTP methods: GET, POST, PUT, DELETE
+- Understanding HTTP headers and response codes
 
-**3. Popular Web
+**3. Popular Web Frameworks in Python**
 
-Frameworks in Python**
-
-- Description and comparison of web frameworks (e.g., Flask, Django, FastAPI)
+- Description and comparison of major web frameworks (e.g., Flask, Django, FastAPI)
 
 # Developing Web Applications with Flask
 
@@ -318,26 +253,26 @@ Frameworks in Python**
 
 - Configuring URL routes
 - Defining views and associated functions
-- Using templates to render dynamic content
+- Utilizing templates for dynamic content rendering
 
 **2. Templates and Dynamic Rendering**
 
-- Using template engines (e.g., Jinja2) in Flask
-- Passing data to templates and dynamic rendering
-- Using control structures in templates (e.g., loops, conditionals)
+- Working with template engines, such as Jinja2, in Flask
+- Passing data to templates for dynamic rendering
+- Utilizing control structures in templates (e.g., loops, conditionals)
 
 **3. Handling Forms and Data**
 
-- Receiving and validating form data
-- Processing user-submitted data
-- Protection against common security attacks (e.g., CSRF)
+- Receiving and validating form data in Flask applications
+- Processing user-submitted data securely
+- Implementing protection against common security attacks (e.g., CSRF)
 
 # Developing RESTful APIs with Flask and FastAPI
 
 **1. Creating Endpoints and CRUD Operations**
 
-- Defining routes and HTTP verbs for CRUD operations
-- Using functions to implement API operations
+- Defining routes and HTTP verbs for CRUD operations in Flask
+- Implementing API operations using functions
 
 **2. Serialization and Deserialization of Data**
 
@@ -346,8 +281,8 @@ Frameworks in Python**
 
 **3. Authentication and Authorization in APIs**
 
-- Implementing token-based authentication (e.g., JWT)
-- Using decorators and middleware to control access to endpoints
+- Implementing token-based authentication (e.g., JWT) in Flask
+- Utilizing decorators and middleware to control access to API endpoints
 
 ## Syllabus {#syllabus}
 
