@@ -1,9 +1,9 @@
 ## Índice
 
-[Programming languages](#Programming languages)
+[Programming languages](#Programming_languages)
 [Syllabus](#Syllabus)
 
-## Programming languages{#Programming languages}
+## Programming languages{#Programming_languages}
 
 
 ### Front-end
