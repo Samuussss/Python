@@ -4,8 +4,7 @@
 
 [Syllabus](#Syllabus)
 
-## Programming languages{#Programming_languages}
-
+## Programming languages {#Programming_languages}
 
 ### Front-end
 - HTML
@@ -418,4 +417,5 @@ Esta es una lista organizada con Markdown que abarca diversos usos de los lengua
 -	Implementación de autenticación basada en tokens (e.g., JWT)
 
 -	Uso de decoradores y middleware para controlar el acceso a los endpoints 
- 
+
+##Syllabus {#Syllabus}
