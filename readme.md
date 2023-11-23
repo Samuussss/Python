@@ -1,8 +1,8 @@
-## Índice
+# Índice
 
-#[Programming languages](#Programming_languages)
+[Programming languages](#Programming_languages)
 
-#[Syllabus](#Syllabus)
+[Syllabus](#Syllabus)
 
 ## Programming languages{#Programming_languages}
 
