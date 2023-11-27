@@ -61,7 +61,7 @@
 
 ---
 
-# Python Syllabus
+# Python-Syllabus
 
 # Module 1: Introduction to Python
 
