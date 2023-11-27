@@ -2,7 +2,7 @@
 
 ## [Python Syllabus](#python-syllabus) 
 
-# Programming Languages {#programming-languages}
+# [Programming Languages]{#programming-languages}
 
 ### Front-end
 - HTML
