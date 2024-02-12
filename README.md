@@ -1,354 +1,288 @@
-# Temario Python
-#
-# Módulo 1: Introducción a Python
-#
-# **Introducción a Python:**
+## [Python Syllabus](#python-Syllabus) 
 
-**1.	Historia y características del lenguaje**
+# (Python-Syllabus)
 
--	Origen y evolución de Python
+# Module 1: Introduction to Python
 
--	Principales características y ventajas del lenguaje
+**Introduction to Python:**
 
-**2.	Instalación de Python y entorno de desarrollo**
+**1. History and Features of the Language**
 
--	Descarga e instalación de Python en diferentes sistemas operativos
+- Origin and evolution of Python
+- Key features and advantages of the language
 
--	Configuración de un entorno de desarrollo (IDEs, editores de texto, etc.)
+**2. Python Installation and Development Environment**
 
-**3.	Configuración del entorno de trabajo**
+- Download and installation on different operating systems
+- Setting up a development environment (IDEs, text editors, etc.)
 
--	Configuración de variables de entorno
+**3. Configuration of the Working Environment**
 
--	Gestión de paquetes y entornos virtuales
+- Configuration of environment variables
+- Package management and virtual environment setup
 
-# 2.	Fundamentos de programación con Python
+# Module 2: Python Programming Fundamentals
 
-**1.	Variables y tipos de datos simples**
+**1. Variables and Simple Data Types**
 
--	Declaración de variables y asignación de valores
+- Variable declaration and value assignment
+- Basic data types: integers, floats, strings, booleans
+- Type conversion
 
--	Tipos de datos básicos: enteros, flotantes, cadenas, booleanos
+**2. Operators and Expressions**
 
--	Conversión de tipos de datos
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical and membership operators
 
-**2.	Operadores y expresiones**
+**3. Flow Control and Decision Structures**
 
--	Operadores aritméticos
+- If-else statements
+- Elif statements
+- Ternary operator
 
--	Operadores de asignación
+**4. Loops and Repetition Structures**
 
--	Operadores de comparación
+- While loop
+- For loop
+- Break and continue statements
 
--	Operadores lógicos y de pertenencia
+**5. Functions and Code Reusability**
 
-**3.	Control de flujo y estructuras de decisión**
+- Function definition
+- Parameter passing
+- Return values
+- Variable scope (local and global)
 
--	Instrucción if-else
+**6. Exception Handling**
 
--	Instrucción elif
+- Try-except structure
+- Catching specific exceptions
+- Use of else and finally clauses
 
--	Operador ternario
+# Module 2: Data Structures and Algorithms
 
-**4.	Bucles y estructuras de repetición**
+**Lists, Tuples, and Sets**
 
--	Bucle while
+**1. List Manipulation**
 
--	Bucle for
+- Creation, access, and modification of elements
+- List methods (append, extend, remove, etc.)
+- Slicing and concatenation
 
--	Instrucciones break y continue
+**2. Operations with Tuples**
 
-**5.	Funciones y reutilización de código**
+- Tuple creation and unpacking
+- Element access and slicing
+- Immutability of tuples
 
--	Definición de funciones
+**3. Use of Sets and Set Operations**
 
--	Paso de parámetros
+- Set creation and manipulation
+- Set operations (union, intersection, difference, etc.)
+- Using sets to eliminate duplicate elements and perform membership tests
 
--	Retorno de valores
+# Advanced Data Structures and Algorithms
 
--	Ámbito de variables (local y global)
+**1. Creation and Manipulation of Dictionaries**
 
-**6.	Manejo de excepciones**
+- Syntax and element access
+- Dictionary methods (keys, values, items, etc.)
+- Iterating over dictionaries
 
--	Estructura try-except
+**2. Sets and Frozensets**
 
--	Captura de excepciones específicas
+- Use of sets for storing unique elements
+- Differences between sets and frozensets
 
--	Uso de la cláusula else y finally
+**3. Use of Stacks, Queues, and Deques**
 
-# **Módulo 2: Estructuras de Datos y Algoritmos**
-#
-# **Listas, tuplas y conjuntos**
+- Implementing stacks and queues with lists
 
-**1.	Manipulación de listas**
+**4. Recursion**
 
--	Creación, acceso y modificación de elementos
+- Concept of recursion
+- Implementing recursive functions
+- Use cases for recursion
 
--	Métodos de las listas (append, extend, remove, etc.)
+# Searching and Sorting Algorithms
 
--	Slicing y concatenación de listas
+**1. Linear and Binary Search**
 
-**2.	Operaciones con tuplas**
+- Implementing search algorithms
+- Use cases and efficiency of search algorithms
 
--	Creación y desempaquetado de tuplas
+**2. Sorting Lists**
 
--	Acceso a elementos y slicing
+- Bubble sort algorithm
+- Insertion sort algorithm
+- Quick sort algorithm
 
--	Inmutabilidad de las tuplas
+**3. Analysis of Algorithmic Complexity**
 
-**3.	Uso de conjuntos y operaciones de conjunto**
+- Big O notation and its use to analyze algorithm performance
+- Complexity of search and sorting algorithms
 
--	Creación y manipulación de conjuntos
+# Module 3: Object-Oriented Programming (OOP)
 
--	Operaciones de conjuntos (unión, intersección, diferencia, etc.)
+**Introduction to Object-Oriented Programming**
 
--	Uso de conjuntos para eliminar elementos duplicados y realizar pruebas de pertenencia
+**1. Fundamental Concepts of OOP**
 
+- Objects, classes, and methods
+- Encapsulation, inheritance, and polymorphism
 
-# **Diccionarios y estructuras de datos avanzadas**
+**2. Classes, Objects, and Attributes**
 
+- Creating classes and objects
+- Defining instance attributes and methods
+- Accessing attributes and methods using dot notation
 
-**1.	Creación y manipulación de diccionarios**
+**3. Methods and Encapsulation**
 
--	Sintaxis y acceso a elementos
+- Defining instance methods and static methods
+- Using decorators to modify method behavior
+- Encapsulation of attributes and methods through naming conventions
 
--	Métodos de los diccionarios (keys, values, items, etc.)
+# Inheritance and Polymorphism
 
--	Iteración sobre diccionarios
+**1. Creating Derived Classes and Inheritance**
 
-**2.	Sets y frozensets**
+- Single and multiple inheritance
+- Using the super() function to access methods of the base class
+- Overriding methods and inheriting attributes
 
--	Uso de sets para almacenar elementos únicos
+**2. Polymorphism and Code Reusability**
 
--	Diferencias entre sets y frozensets
+- Method polymorphism and class polymorphism
+- Using interfaces and abstract classes
+- Composition and aggregation as alternatives to inheritance
 
-**3.	Uso de pilas, colas y ques**
+# Advanced Principles of OOP
 
--	Implementación de pilas y colas con listas
+**1. Composition and Aggregation**
 
-**4.	Recursión**
+- Relationships between objects
+- Creating complex objects through composition and aggregation
 
--	Concepto de recursión
+**2. Special Methods and Operator Overloading**
 
--	Implementación de funciones recursivas
+- Using special methods for specific operations (e.g., __str__, __len__)
+- Overloading operators to work with custom objects
 
--	Casos de uso de la recursión
+**3. Decorators and Metaprogramming**
 
+- Using decorators to modify the behavior of functions and methods
+- Introduction to metaprogramming and special attributes (e.g., __dict__, __getattr__)
 
-# **Algoritmos de búsqueda y ordenamiento**
+# Module 4: Desktop Application Development with GUI
 
+**Introduction to GUI Programming**
 
-**1.	Búsqueda lineal y binaria**
+**1. Fundamentals of Graphical User Interfaces**
 
--	Implementación de algoritmos de búsqueda
+- Benefits and characteristics of GUIs
+- Common elements of GUIs: windows, buttons, text boxes, etc.
 
--	Casos de uso y eficiencia de los algoritmos de búsqueda
+**2. Popular Libraries: Tkinter, PyQt, wxPython**
 
-**2.	Ordenamiento de listas**
+- Description and comparison of the most used libraries
+- Choosing the right library according to project needs
 
--	Algoritmo de ordenamiento burbuja
+# Developing Desktop Applications with Tkinter
 
--	Algoritmo de ordenamiento por inserción
+**1. Creating Windows and Widgets**
 
--	Algoritmo de ordenamiento rápido (quicksort)
+- Creating a main window
+- Adding and customizing widgets (labels, buttons, text boxes, etc.)
+- Organizing widgets using geometry managers
 
-**3.	Análisis de la complejidad algorítmica**
+**2. Designing Graphical Interfaces**
 
--	Notación O grande y su uso para analizar el rendimiento de los algoritmos
+- Using frames and containers to organize the interface
+- Applying styles and themes through style sheets
 
--	Complejidad de los algoritmos de búsqueda y ordenamiento
+**3. Handling Events and User Interaction**
 
-# **Módulo 3: Programación Orientada a Objetos**
-#
-# **Introducción a la programación orientada a objetos**
+- Binding events to functions
+- Capturing and processing user events
+- Using dialogs for specialized interaction (e.g., file selection)
 
+# Advanced Desktop Application Development
 
-**1.	Conceptos fundamentales de la POO**
+**1. Custom Styles and Themes**
 
--	Objetos, clases y métodos
+- Creating and applying custom styles
+- Using predefined and custom themes
+- Changing styles at runtime
 
--	Encapsulamiento, herencia y polimorfismo
+**2. Menus, Toolbars, and Dialogs**
 
-**2.	Clases, objetos y atributos**
+- Creating menus and submenus
+- Adding toolbars and action buttons
+- Using dialogs for specialized interaction (e.g., file selection)
 
--	Creación de clases y objetos
+**3. Cross-Platform Applications**
 
--	Definición de atributos y métodos de instancia
+- Adapting the interface for different operating systems
+- Design and usability considerations on specific platforms
 
--	Acceso a atributos y métodos mediante notación de punto
+# Module 5: Backend Web Application Development
 
-**3.	Métodos y encapsulamiento**
+**Introduction to Web Programming**
 
--	Definición de métodos de instancia y métodos estáticos
+**1. Client-Server Architecture Basics**
 
--	Uso de decoradores para modificar el comportamiento de los métodos
+- Fundamental concepts of client-server architecture
+- Role of the web server and browser in a web application
 
--	Encapsulamiento de atributos y métodos mediante convenciones de nombre
+**2. HTTP Protocol and Basic Concepts**
 
-# **Herencia y polimorfismo**
+- HTTP methods: GET, POST, PUT, DELETE, etc.
+- HTTP headers and response codes
 
-**1.	Creación de clases derivadas y herencia**
+**3. Popular Web Frameworks in Python**
 
--	Herencia simple y múltiple
+- Description and comparison of web frameworks (e.g., Flask, Django, FastAPI)
 
--	Uso de la función super() para acceder a métodos de la clase base
+# Developing Web Applications with Flask
 
--	Sobreescritura de métodos y herencia de atributos
+**1. Creating Routes and Views**
 
-**2.	Polimorfismo y reutilización de código**
+- Configuring URL routes
+- Defining views and associated functions
+- Utilizing templates for dynamic content rendering
 
--	Polimorfismo de método y polimorfismo de clase
+**2. Templates and Dynamic Rendering**
 
--	Uso de interfaces y clases abstractas
+- Working with template engines, such as Jinja2, in Flask
+- Passing data to templates for dynamic rendering
+- Utilizing control structures in templates (e.g., loops, conditionals)
 
--	Composición y agregación como alternativas a la herencia
+**3. Handling Forms and Data**
 
-# **Principios avanzados de la POO**
+- Receiving and validating form data in Flask applications
+- Processing user-submitted data securely
+- Implementing protection against common security attacks (e.g., CSRF)
 
-**1.	Composición y agregación**
+# Developing RESTful APIs with Flask and FastAPI
 
--	Relaciones entre objetos
+**1. Creating Endpoints and CRUD Operations**
 
--	Creación de objetos complejos mediante composición y agregación
+- Defining routes and HTTP verbs for CRUD operations in Flask
+- Implementing API operations using functions
 
-**2.	Métodos especiales y sobrecarga de operadores**
+**2. Serialization and Deserialization of Data**
 
--	Uso de métodos especiales para operaciones específicas (e.g., __str__, __len__)
+- Using serialization/deserialization libraries (e.g., JSON, XML)
+- Converting Python objects to web-compatible data formats
 
--	Sobrecarga de operadores para trabajar con objetos personalizados
+**3. Authentication and Authorization in APIs**
 
-**3.	Decoradores y metaprogramación**
+- Implementing token-based authentication (e.g., JWT) in Flask
+- Utilizing decorators and middleware to control access to API endpoints
 
--	Uso de decoradores para modificar el comportamiento de funciones y métodos
+## [Syllabus](#syllabus)
 
--	Introducción a la metaprogramación y atributos especiales (e.g., __dict__,__getattr__)
-
-# **Módulo 4: Desarrollo de Aplicaciones de Escritorio con GUI**
-#
-# **Introducción a la programación de GUI**
-
-**1.	Fundamentos de interfaces gráficas**
-
--	Beneficios y características de las GUI
-
--	Elementos comunes de las GUI: ventanas, botones, cuadros de texto, etc.
-
-**2.	Bibliotecas populares: Tkinter, PyQt, wxPython**
-
--Descripción y comparación de las bibliotecas más utilizadas
-
--	Elección de la biblioteca adecuada según las necesidades del proyecto
-
-# **Desarrollo de aplicaciones de escritorio con Tkinter**
-
-**1.	Creación de ventanas y widgets**
-
--	Creación de una ventana principal
-
--	Añadir y personalizar widgets (etiquetas, botones, cuadros de texto, etc.)
-
--	Organización de widgets mediante gestores de geometría
-
-**2.	Diseño de interfaces gráficas**
-
--	Uso de frames y contenedores para organizar la interfaz
-
--	Aplicación de estilos y temas a través de hojas de estilo
-
-**3.	Manejo de eventos y interacción con el usuario**
-
-- Vinculación de eventos a funciones
-
--	Captura y procesamiento de eventos del usuario
-
--	Uso de diálogos para interacción especializada
-
-# **Desarrollo avanzado de aplicaciones de escritorio**
-
-**1.	Estilos y temas personalizados**
-
--	Creación y aplicación de estilos personalizados
-
--	Uso de temas predefinidos y personalizados
-
--	Cambio de estilos en tiempo de ejecución
-
-**2.	Menús, barras de herramientas y diálogos**
-
--	Creación de menús y submenús
-
--	Añadir barras de herramientas y botones de acción
-
--	Uso de diálogos para interacción especializada (e.g., selección de archivos)
-
-**3.	Aplicaciones multiplataforma**
-
--	Adaptación de la interfaz para diferentes sistemas operativos
-
--	Consideraciones de diseño y usabilidad en plataformas específicas
-
-# **Módulo 5: Desarrollo de Aplicaciones Web Backend**
-#
-# **Introducción a la programación web**
-
-**1.	Arquitectura cliente-servidor**
-
--	Conceptos básicos de la arquitectura cliente-servidor
-
--	Rol del servidor web y el navegador en una aplicación web
-
-**2.	Protocolo HTTP y conceptos básicos**
-
--	Métodos HTTP: GET, POST, PUT, DELETE, etc.
-
--	Cabeceras HTTP y códigos de respuesta
-
-**3.	Frameworks web populares en Python**
-
-- Descripción y comparación de frameworks web (e.g., Flask, Django, FastAPI)
-
-# **Desarrollo de aplicaciones web con Flask**
-
-**1.	Creación de rutas y vistas**
-
--	Configuración de rutas URL
-
--	Definición de vistas y funciones asociadas
-
--	Uso de plantillas para renderizar contenido dinámico
-
-**2.	Templates y renderizado dinámico**
-
--	Uso de motores de plantillas (e.g., Jinja2) en Flask
-
--	Pasar datos a las plantillas y renderizado dinámico
-
--	Uso de estructuras de control en las plantillas (e.g., bucles, condicionales)
-
-**3.	Manejo de formularios y datos**
-
--	Recepción y validación de datos de formularios
-
--	Procesamiento de datos enviados por el usuario
-
--	Protección contra ataques de seguridad comunes (e.g., CSRF)
-
-# **Desarrollo de API RESTful con Flask y FastAPI**
-
-**1.	Creación de endpoints y operaciones CRUD**
-
--	Definición de rutas y verbos HTTP para operaciones CRUD
-
--	Uso de funciones para implementar las operaciones de la API
-
-**2.	Serialización y deserialización de datos**
-
--	Uso de bibliotecas de serialización/deserialización (e.g., JSON, XML)
-
--	Conversión de objetos Python a formatos de datos compatibles con la web
-
-**3.	Autenticación y autorización en APIs**
-
--	Implementación de autenticación basada en tokens (e.g., JWT)
-
--	Uso de decoradores y middleware para controlar el acceso a los endpoints 
+# Syllabus
