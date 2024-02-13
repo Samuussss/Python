@@ -20,4 +20,4 @@ while True:
         numeros_positivos.append(numero_ingresado)
 numeros_positivos.sort()
 menor_numero_positivo = numeros_positivos
-print(f"el menor número positivo es: {menor_numero_positivo}. ")
+print(f"el menor número positivo es: {menor_numero_positivo}.")
