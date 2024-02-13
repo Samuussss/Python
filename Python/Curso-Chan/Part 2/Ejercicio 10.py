@@ -10,9 +10,10 @@ while True:
     
     if numero_ingresado == 0:
         print("------")
-        print("cero detectado: ")
+        print("cero detectado")
         print("------")
         break
+
     elif numero_ingresado < 0:
         numeros_positivos.append(numero_ingresado)
     elif numero_ingresado > 0:
