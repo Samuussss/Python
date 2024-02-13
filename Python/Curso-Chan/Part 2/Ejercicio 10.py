@@ -21,3 +21,7 @@ while True:
 numeros_positivos.sort()
 menor_numero_positivo = numeros_positivos
 print(f"el menor número positivo es: {menor_numero_positivo}.")
+
+Numeros_negativos.max()
+mayor_numero_negativo = numeros_negativos
+print(f"el mayor número negativo es {mayor_numero_negativo}.")
