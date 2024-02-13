@@ -18,3 +18,4 @@ while True:
         numeros_positivos.append(numero_ingresado)
     elif numero_ingresado > 0:
         numeros_positivos.append(numero_ingresado)
+Numeros positivos.sort()
