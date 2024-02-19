@@ -22,16 +22,9 @@ while True:
         break
 
 if lista_de_numeros:
-    lista_ordenada = sorted((valor, indice) for indice, valor in enumerate(lista_de_numeros))
-    menor_numero, pos_menor = lista_ordenada[0]
-    segundo_menor_numero, pos_segundo_menor = lista_ordenada[1] if len(lista_ordenada) > 1 else (None, None)
-    
-    print(f"El menor número ingresado es {menor_numero} y se encuentra en la posición {pos_menor}.")
-    
-    if segundo_menor_numero is not None:
-        print(f"El segundo menor número ingresado es {segundo_menor_numero} y se encuentra en la posición {pos_segundo_menor}.")
-    else:
-        print("No se ingresaron suficientes números para encontrar el segundo menor.")
+
+
+
 else:
     print("No se ingresaron números.")
 print("-------------")
