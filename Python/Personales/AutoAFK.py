@@ -86,4 +86,5 @@ def main():
                 recorded_keys.append(pressed_key.name)
 
 if __name__ == "__main__":
+    print("-------------- Iniciando Programa... --------------")
     main()
